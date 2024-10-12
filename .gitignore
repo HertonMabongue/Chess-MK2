@@ -1,0 +1,26 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS-specific files
+.DS_Store
+
+# Virtual environment
+venv/
+.venv/
+
+# Log files
+*.log
+
+# SQLite database
+*.sqlite3
+
+# Environment files
+.env
+
+# VSCode settings
+.vscode/
+
+# JetBrains IDE settings
+.idea/
