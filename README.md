@@ -4,7 +4,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/herton13/)
 
 ## Overview
-Python-based chess game built with Python. 
+Python-based chess game adapted from <a href="https://www.youtube.com/playlist?list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_">Creating a Chess Engine in Python</a> 
+with a Pygame GUI.
+
 
 
 ## Features
@@ -24,8 +26,8 @@ Before running the game, ensure you have Python and Pygame installed on your sys
 
 ```
 Clone the repository:
-git clone https://github.com/your-username/chess-game.git
-python chess_game.py
+git clone https://github.com/HertonMabongue/Chess-MK2.git
+python3 chess_game.py
 ```
 
 # Languages and Techstack:
@@ -42,7 +44,7 @@ This project is licensed under the MIT License.
 
 # Contact Author
 ### Herton Cabral Mabongue
-####
+#### I am a Computer Science student at Stellenbosch University with a passion for finding innovative solutions to real-world problems. My interests lie in web and software development, and I enjoy collaborating with others to create impactful products.
 ##### Email: hertoncabral04@gmail.com
 ##### LinkedIn: http://www.linkedin.com/in/herton13
 #### Github: https://github.com/HertonMabongue
