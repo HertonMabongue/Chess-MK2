@@ -1,56 +1,48 @@
-♟️ Python Chess Game
+<h1 align="left">Chess MK2</h1>
 
-Welcome to Chess MK2! This is a Python-based chess game built with the Python library. Play a classic game of chess right from your computer, and challenge your mind with strategic gameplay.
-🎮 Features
+[![GitHub Badge](https://img.shields.io/github/followers/HertonMabongue?style=social)](https://github.com/HertonMabongue?tab=followers)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/herton13/)
 
-    Full chessboard with all standard pieces
-    Player vs Player mode
-    Move validation (prevents illegal moves)
-    Basic graphics powered by Pygame
+## Overview
+Python-based chess game built with Python. 
 
-📋 Prerequisites
 
+## Features
+- Full chessboard with all standard pieces
+- Player vs Player mode
+- Move validation (prevents illegal moves)
+- Graphics powered by Pygame
+
+## System Requirements  
 Before running the game, ensure you have Python and Pygame installed on your system.
 
     Python 3.x (Download from python.org)
     Pygame (Install using pip):
-
-    bash
-
     pip install pygame
 
-🚀 How to Run
+## How to Run
 
-    Clone the repository:
-
-    bash
-
+```
+Clone the repository:
 git clone https://github.com/your-username/chess-game.git
+python chess_game.py
+```
 
-Navigate to the project directory:
+# Languages and Techstack:
 
-bash
+##
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="12" />
+</div>
 
-cd chess-game
-
-Run the game:
-
-bash
-
-    python main.py
-
-Enjoy playing a game of chess!
-🔧 Future Improvements
-
-Here are some planned features for future versions:
-
-    🧠 AI opponent: Play against a computer player with adjustable difficulty.
-    🌐 Online Multiplayer: Play with friends over the internet.
-    🎨 Customizable themes: Change board colors and piece styles.
-
-📜 License
-
+    
+# License
 This project is licensed under the MIT License.
-🙌 Contributing
 
-Contributions are welcome! If you have any ideas or improvements, feel free to fork the repository and submit a pull request.
+# Contact Author
+### Herton Cabral Mabongue
+####
+##### Email: hertoncabral04@gmail.com
+##### LinkedIn: http://www.linkedin.com/in/herton13
+#### Github: https://github.com/HertonMabongue
