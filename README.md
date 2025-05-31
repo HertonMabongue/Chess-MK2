@@ -1,4 +1,4 @@
-<h1 align="left">Chess MK2</h1>
+<h1 align="left">Chess Mate</h1>
 
 [![GitHub Badge](https://img.shields.io/github/followers/HertonMabongue?style=social)](https://github.com/HertonMabongue?tab=followers)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/herton13/)
