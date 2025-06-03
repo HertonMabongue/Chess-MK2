@@ -5,8 +5,8 @@ This class holds the current Game State.
 
 
 class GameState:
-    def __int__(self):
-        self.initial_board = [
+    def __init__(self):
+        self.chess_board = [
             ['bR', 'bN', 'bB', 'bQ', 'bK', 'bB', 'bN', 'bR'],
             ['bp', 'bp', 'bp', 'bp', 'bp', 'bp', 'bp', 'bp'],
             ['--', '--', '--', '--', '--', '--', '--', '--'],
