@@ -89,18 +89,32 @@ def main():
         pyg.display.flip()
 
 def draw_game(view, game_state):
+    """
+          Draws the board on the canvas.
+          Draw pieces from assets page.
+
+       """
     draw_board(view)
     draw_pieces(view, game_state.chess_board)
 
 
 
 def draw_board(view):
+    """
+    Draws the board on the canvas.
+    Loops over colors then assigns them to a square.
+
+    """
     colors = [pyg.Color('white'), pyg.Color('grey')]
     for row in range(DIMENSION):
         for column in range(DIMENSION):
             color = colors[(row + column) % 2]
             pyg.draw.rect(view, color, pyg.Rect(column * SQ_SIZE, row * SQ_SIZE, SQ_SIZE, SQ_SIZE))
 def draw_pieces(view, board):
+    """
+    Draws the pieces on the board.
+
+    """
     for row in range(DIMENSION):
         for column in range(DIMENSION):
             piece = board[row][column]
