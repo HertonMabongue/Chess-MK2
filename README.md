@@ -46,6 +46,6 @@ This project is licensed under the MIT License.
 # Contact Author
 ### Herton Cabral Mabongue
 #### I am a Computer Science student at Stellenbosch University with a passion for finding innovative solutions to real-world problems. My interests lie in web and software development, and I enjoy collaborating with others to create impactful products.
-##### Email: hertoncabral04@gmail.com
+##### Email: contactherton@gmail.com
 ##### LinkedIn: http://www.linkedin.com/in/herton13
 #### Github: https://github.com/HertonMabongue
